@@ -1,5 +1,5 @@
 # Coordination Among Neural Modules Through a Shared Global Workspace
-
+/test
 This repository contains the code to reproduce the `relational reasoning: sort_of_clever` and `detecting equilateral triangles` tasks from our paper.  
 
 
